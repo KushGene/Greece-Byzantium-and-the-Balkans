@@ -1,0 +1,55 @@
+﻿l_german:
+ # dlc info
+ dlc_grefm: "Griechenland, Byzanz & die Balkan-Erweiterung"
+ dlc_grefm_desc: "Entwickle die aufstrebenden Nationen des Balkans aus ihren turbulenten Übergängen in die Unabhängigkeit. Jede steht vor vielen Herausforderungen zwischen dem Osmanischen Reich und den dominierenden Großmächten, aber wenn sie diese überwinden, kannst du sie auf die Weltbühne führen oder sogar das #o Byzantinische Reich#! wiederherstellen. \n\n (#italic #greece Wenn du dies siehst, ist die Mod aktiv#!#!.)"
+ 
+# objectives
+ je_grefm_intro: "Willkommen zur Griechenland, Byzanz & Balkan-Erweiterungs-Mod!"
+ je_grefm_intro_reason: "Dieser Journaleintrag wird sich selbst schließen, lass ihn einfach sich selbst einrichten."
+ 
+ objective_grefm: "Der Griechische Staat"
+ objective_grefm_desc: "Die Unabhängigkeit des griechischen Staates hat Wellen durch die griechischen Bevölkerungen unter osmanischer Herrschaft geschlagen. Führe die Hellenen auf die Weltbühne oder übernimm die Führung der noch unter osmanischer Herrschaft stehenden Rhomaios. Überwinde die dominierenden Großmächte, um die Länder des #greece Hellenistischen Reiches#! zurückzufordern oder das #purple Römische Reich#! wiederherzustellen.\n\nDieser Inhalt konzentriert sich auf Griechenlands Kampf mit dem Monarchismus und den größeren Konflikt zwischen den Hellenen- und Rhomaios-Identitäten darum, die wahre „griechische" Identität zu sein."
+ objective_grefm_idle_header: ""
+ objective_grefm_idle_hint: ""
+ 
+ objective_grefm_name_GRE: "#v $GRE$#!"
+ objective_grefm_desc_GRE: "#lore Griechenland ist neu unabhängig, aber sowohl rückständig als auch instabil. Jahrhunderte der Ausbeutung und Stagnation unter osmanischer Herrschaft haben es mit einer ineffektiven Regierung und einer größtenteils ländlichen Bevölkerung zurückgelassen. Wird Griechenland einen autokratischen Weg einschlagen oder wird es auf das Volk hören, das nach Liberalismus ruft?#!"
+ objective_grefm_name_ION: "#v $ION$#!"
+ objective_grefm_desc_ION: "#lore Mit dem Einfluss ihrer Kolonialverwaltung versuchen die Briten, die Inseln zu einer Modell-„Kolonie" zu entwickeln. Doch die Inseln sehnen sich nach der Wiedervereinigung mit ihren griechischen Cousins auf dem Festland.\n\nWerden die Inseln #italic enosis#! mit dem griechischen Staat finden oder werden die Heptanesen ihre eigene Zukunft suchen?#!"
+ objective_grefm_name_SAMO: "#v $SAMO$#!"
+ objective_grefm_desc_SAMO: "#lore Die Insel Samos stand allein in ihrer Auflehnung gegen die Osmanen nach der Bildung des griechischen Staates. Trotz der Trennung vom griechischen Staat brennt der Traum von #italic enosis#! stärker denn je in den Herzen des samischen Volkes. Wird Samos die Union mit Griechenland erreichen oder wird die Insel ihren Widerstand gegen den osmanischen Staat fortsetzen?#!\n\n#red Warnung: Dies ist ein schwer zu spielendes Land.#!"
+ 
+ objective_grefm_name_TRB: "#v $TRB$#!"
+ objective_grefm_desc_TRB: "#lore Die Länder des Pontus beherbergen seit Jahrtausenden griechische Bevölkerungen. Während das Osmanische Reich darum kämpft, seine Untertanen zu kontrollieren, beginnen die Rhomaios-Menschen, ihren Status als Untertanen der Hohen Pforte in Frage zu stellen. Wird Trapezunt die pontischen Griechen in die Freiheit führen?"
+ objective_grefm_name_GRE_CAP: "#v $GRE_CAP$#!"
+ objective_grefm_desc_GRE_CAP: "#lore Tief im Herzland Anatoliens sehen sich die Griechen Kappadokiens zunehmender Unterdrückung ausgesetzt, während Schwäche und Paranoia das Osmanische Reich erfassen. Wird Kappadokien eine bessere Zukunft finden?"
+ objective_grefm_name_THE: "#v $THE$#!"
+ objective_grefm_desc_THE: "#lore Einst der letzte Zufluchtsort des Römischen Reiches, liegt die Erinnerung an Theodoro unter russischer Herrschaft schlummernd. Wird Theodoro die Urum-Menschen dabei leiten, ihre eigene Zukunft zu bestimmen?#!\n\n#red Warnung: Dies ist ein schwer zu spielendes Land.#!"
+ 
+ objective_balkfm: "Balkanischer Separatismus"
+ objective_balkfm_desc: "Übernimm die Führung einer der Nationen des #o Balkans#!, während sie alle versuchen, ihre Identitäten vom osmanischen Joch zu befreien. Generationen der Dominanz durch die #bold Hohe Pforte#! haben diese Nationen von der Entwicklung und den Innovationen des Westens isoliert, aber während sich der Nationalismus über den Kontinent ausbreitet, sehnen sich diese Völker nach dem Zusammenbruch der osmanischen Macht auf dem Balkan.\n\nDieser Inhalt konzentriert sich auf die lokalen Kämpfe jeder Nation, ihren eigenen nationalen rechtlichen Rahmen und ihre Identität zu etablieren, sowie auf den Kampf um die Unabhängigkeit vom Sultan. Wenn du diese Nationen in die Unabhängigkeit führst, kannst du sie den Weg des Irredentismus beschreiten lassen, um die osmanische Herrschaft über den Balkan anzufechten."
+ objective_balkfm_idle_header: ""
+ objective_balkfm_idle_hint: ""
+ 
+ objective_balkfm_name_MON: "#v $MON$#!"
+ objective_balkfm_desc_MON: "#lore Das Fürstbistum Montenegro hat als Relikt aus Europas feudaler Vergangenheit bis in die moderne Zeit überlebt. Geführt von einem Fürstbischof fehlt dem kleinen Land eine zentralisierte Autorität, wobei sein raues Gelände als primäre Verteidigung gegen osmanische Invasionen dient. Die Grenze ist schlecht definiert und Scharmützel mit benachbarten Paschas und Beys sind häufig. Wird Montenegro aus seinen antiquierten Wurzeln aufsteigen oder ist die Nation zur Stagnation verdammt?#!\n\n#red Warnung: Dies ist ein schwer zu spielendes Land.#!"
+ objective_balkfm_name_SER: "#v $SER$#!"
+ objective_balkfm_desc_SER: "#lore Geführt vom Kriegshelden Miloš Obrenović hat Serbien jahrhundertelange friedliche Unterwerfung mit zwei Aufständen gebrochen, die dem Land eine von der übrigen osmanischen Verwaltung unabhängige Administration gegeben haben. Während sich der Nationalismus über Europa ausbreitet, warten viele Serben auf den Tag, an dem sie die Ketten brechen können, die sie an den Sultan binden, und das serbische Volk vereinen können. Wird Serbien seinen Weg in die Unabhängigkeit finden oder wird das serbische Volk zwischen den großen Reichen geteilt bleiben?#!"
+ objective_balkfm_name_MOL: "#v $MOL$#!"
+ objective_balkfm_desc_MOL: "#lore Eingebettet zwischen dem Dnister-Fluss und den Karpaten liegt die Moldau weit vom Einfluss des Sultans entfernt. Regiert von einem osmanisch genehmigten Hospodar stellt das kleine Fürstentum nur einen kleinen Teil der größeren rumänischen Gemeinschaft dar und ist häufig dem Einfluss seines russischen Nachbarn ausgesetzt. Wird die Moldau in der Lage sein, das rumänische Volk zu vereinen, oder wird sie im Kampf um die Donauregion untergehen?#!"
+ objective_balkfm_name_WAL: "#v $WAL$#!"
+ objective_balkfm_desc_WAL: "#lore Als eines der beiden rumänischen Fürstentümer hat die Walachei relativ frei vom Einfluss des osmanischen Hofes existiert. Stark beeinflusst vom europäischen Denken sehen sich die Rumänen der Walachei nur als kleinen Teil der größeren rumänischen Nation. Wird die Walachei ihre osmanisch eingesetzten Hospodare stürzen und Rumänien vereinen oder werden sie im habsburgisch-osmanischen Konflikt zermalmt werden?#!"
+ 
+ objective_balkfm_bulgaria: "Die Wiederbelebung Bulgariens"
+ objective_balkfm_bulgaria_desc: "Führe das bulgarische Volk in seinem Streben, ihre verlorene Nation zurückzugewinnen. Die ehemaligen Länder des #bold Bulgarischen Reiches#! wurden zwischen den vielen #bold Eyalets#! des Osmanischen Reiches aufgeteilt, was die bloße Idee des bulgarischen Staates erodiert hat.\n\nDieser Inhalt beinhaltet das #bold Eyalet von Silistra#! und gibt dir die Chance, den bulgarischen Staat zusammenzufügen und dich von der osmanischen Herrschaft zu befreien."
+ objective_balkfm_bulgaria_idle_header: ""
+ objective_balkfm_bulgaria_idle_hint: ""
+ objective_balkfm_bulgaria_name_TUR: "#v $SILI$#!"
+ objective_balkfm_bulgaria_desc_TUR: "#lore Einst eines der großen Reiche, das sich erhob, um das Byzantinische Reich herauszufordern, wurde die bulgarische Nation durch Jahrhunderte osmanischer Herrschaft unterworfen und zerschlagen. Mit der Ankunft revivalistischer Denker hat das bulgarische Volk jedoch wieder begonnen, nach einer gemeinsamen Existenz abseits der #bold Hohen Pforte#! zu streben. Wird sich das bulgarische Volk erheben, um seine nationale Identität zurückzufordern? \n\n#greece Du wirst als das Eyalet von Silistra beginnen, dem Kern des zukünftigen bulgarischen Staates.#!"
+ 
+ objective_turkfm: "Der kranke Mann Europas"
+ objective_turkfm_desc: "DUMMY"
+ objective_turkfm_idle_header: ""
+ objective_turkfm_idle_hint: ""
+ objective_turkfm_name_TUR: "#v $TUR$#!"
+ objective_turkfm_desc_TUR: "DUMMY"

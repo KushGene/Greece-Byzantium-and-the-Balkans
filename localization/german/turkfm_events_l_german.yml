@@ -1,0 +1,23 @@
+﻿l_german:
+ # events 
+ turkfm.001.t: "Der kranke Mann Europas"
+ turkfm.001.d: ""
+ turkfm.001.f: ""
+ turkfm.001.a: "Die [ROOT.GetCountry.GetName] muss ihren Weg finden."
+ 
+ turkfm.007.t: "Das Reich zerschmettert"
+ turkfm.007.d: "Die [SCOPE.sCountry('ottoman_scope').GetName] ist an der Modernisierung und Selbstbehauptung auf der Weltbühne gescheitert. Die Geier beginnen zu kreisen, während die letzten Tage des Reiches nahen. Inmitten dieses Chaos muss [ROOT.GetCountry.GetName] wählen: Werden wir beim Reich bleiben oder uns aus dem Griff des Sultans befreien?"
+ turkfm.007.f: "Die Hohe Pforte verstummt. Tagelang nach dem Eingeständnis des Scheiterns der Tanzimat hat sich [SCOPE.sCharacter('ottoman_ruler_scope').GetPrimaryRoleTitle] in [SCOPE.sCharacter('ottoman_ruler_scope').GetHerHis] Gemächern zurückgezogen. Ähnlich wie [SCOPE.sCharacter('ottoman_ruler_scope').GetHerHis] kostbares Reich litt [SCOPE.sCharacter('ottoman_ruler_scope').GetPrimaryRoleTitle] an einer langen, schleichenden Krankheit, die [SCOPE.sCharacter('ottoman_ruler_scope').GetHerHim] schließlich unfähig machte, die Last des Kavuk des Staates zu tragen."
+ turkfm.007.a: "Wir können in dieser Welt nicht alleine überleben."
+ turkfm.007.b: "[ROOT.GetCountry.GetName] wird sein eigenes Schicksal schmieden."
+
+ turkfm.008.t: "Der tote Mann Europas"
+ turkfm.008.d: "Die [ROOT.GetCountry.GetName] ist an der Modernisierung und Selbstbehauptung auf der Weltbühne gescheitert. Die Geier beginnen zu kreisen, während die letzten Tage der [ROOT.GetCountry.GetName] nahen."
+ turkfm.008.f: "Die Hohe Pforte verstummt. Tagelang nach dem Eingeständnis des Scheiterns der Tanzimat hat sich der [ROOT.GetCountry.GetRuler.GetPrimaryRoleTitle] in [ROOT.GetCountry.GetRuler.GetHerHis] Gemächern zurückgezogen. Ähnlich wie unser kostbares Reich litt der [ROOT.GetCountry.GetRuler.GetPrimaryRoleTitle] an einer langen, schleichenden Krankheit, die [ROOT.GetCountry.GetRuler.GetHerHim] schließlich unfähig machte, die Last des Kavuk des Staates zu tragen."
+ turkfm.008.a: "Wir gehören Allah, und zu Ihm kehren wir zurück."
+
+ turkfm.009.t: "Der gesunde Mann Europas"
+ turkfm.009.d: ""
+ turkfm.009.f: ""
+ turkfm.009.a: ""
+

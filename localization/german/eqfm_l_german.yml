@@ -1,0 +1,227 @@
+﻿l_german:
+ # Journaleintragsgruppen
+ je_group_eqfm_eastern_question: "Die Orientalische Frage"
+ je_group_eqfm_thunderdome: "Die Balkankriege"
+ 
+ # Die Orientalische Frage Inhalt
+ je_eqfm_sub: "Die Orientalische Frage"
+ je_eqfm_sub_reason: "Die [SCOPE.sCountry('ottoman_scope').GetName] ist in Ungnade gefallen. Erschüttert von Revolutionen in Griechenland und Serbien und von der Ägyptischen Revolte, ist die Autorität der #bold Hohen Pforte#! in Frage gestellt. Nach den Demütigungen durch den Vertrag von Adrianopel und die Konvention von Kütahya erwarten viele den unmittelbaren Zerfall des Sultanats.\n\nWährend die #bold Pforte#! darum kämpft, ihre Kontrolle über Rumelien wiederherzustellen und sich gegen die Großmächte zu verteidigen, haben ihre orthodoxen Untertanen auf dem Balkan begonnen, sich gegen das Reich zu erheben.\n\n#o #tooltip:[GetRawTextTooltipTag('eqfm_tension_tt')] Separatistische Spannungen#!#! auf dem Balkan werden sich voraussichtlich um #variable [GetGlobalVariable('eqfm_tension_progress_var').GetValue|-=]#! nächsten Monat ändern durch #tooltippable;tooltip:[Country.GetTooltipTag],eqfm_tension_regress mildernde#! und #tooltippable;tooltip:[Country.GetTooltipTag],eqfm_tension_progress beschleunigende#! Faktoren."
+
+ je_eqfm_fail_tt: "Das #bold Osmanische Reich#! wurde vom Balkan vertrieben."
+ je_eqfm_status_1: "Aktuelle Phase: #bold #green Ruhig#! (#tooltippable #tooltip:[GetRawTextTooltipTag('eqfm_tension_tt')] [GetGlobalVariable('eqfm_tension_var').GetValue]#!#!)#!."
+ je_eqfm_status_2: "Aktuelle Phase: #bold #yellow Unruhe#! (#tooltippable #tooltip:[GetRawTextTooltipTag('eqfm_tension_tt')] [GetGlobalVariable('eqfm_tension_var').GetValue]#!#!)#!."
+ je_eqfm_status_3: "Aktuelle Phase: #bold #red Feindselig#! (#tooltippable #tooltip:[GetRawTextTooltipTag('eqfm_tension_tt')] [GetGlobalVariable('eqfm_tension_var').GetValue]#!#!)#!."
+ je_eqfm_status_4: "Aktuelle Phase: #bold #blue Deeskalation#! (#tooltippable #tooltip:[GetRawTextTooltipTag('eqfm_tension_tt')] [GetGlobalVariable('eqfm_tension_var').GetValue]#!#!)#!."
+
+ je_eqfm_crisis_main: "Die Große Orientalische Krise"
+ je_eqfm_crisis_main_reason: "Das Osmanische Reich befindet sich in einer Krise. Von inneren und äußeren Problemen bedrängt, kämpft die Pforte darum, die Kontrolle über das Reich zu behalten. Während der Nationalismus das Land erfasst, haben die nicht-türkischen Untertanen begonnen, zu bewaffneten Aufständen zu greifen mit dem Ziel, Regierungen frei von osmanischem Einfluss zu etablieren.\n\nEbenso haben die europäischen Mächte die militärische und wirtschaftliche Stagnation des Reiches ausgenutzt, um ihren Willen dem Sultan aufzuzwingen. Selbst jetzt hat der Hof des russischen Zaren seine Augen auf unsere Länder entlang des Kaukasus und der Donau gerichtet. Wenn wir nicht in der Lage sind, gegen die europäische Aggression standzuhalten, ist es nur eine Frage der Zeit, bis unser Reich zerfällt.\n\n#red Der Krieg kommt, wir müssen bereit sein#!."
+
+ je_eqfm_crisis_sub: "Die Große Orientalische Krise"
+ je_eqfm_crisis_sub_reason: "Das Osmanische Reich befindet sich in einer Krise. Von inneren und äußeren Problemen bedrängt, kämpft die Pforte darum, die Kontrolle über das Reich zu behalten. Während der Nationalismus das Land erfasst, haben die nicht-türkischen Untertanen begonnen, zu bewaffneten Aufständen zu greifen mit dem Ziel, Regierungen frei von osmanischem Einfluss zu etablieren.\n\nEbenso haben die europäischen Mächte die militärische und wirtschaftliche Stagnation des Reiches ausgenutzt, um ihren Willen dem Sultan aufzuzwingen. Selbst jetzt picken das russische und österreichische Reich an den osmanischen Grenzen, angezogen vom wachsenden Machtvakuum im Nahen Osten.\n\n#red Der Krieg kommt, wir müssen bereit sein#!."
+ 
+ je_eqfm_crisis_tt: "Der Russisch-Türkische Krieg ist ausgebrochen."
+ eqfm_crisis_leader_tt: "Dies wird uns verpflichten, den Balkan gegen die Osmanen anzuführen."
+ eqfm_crisis_join_tt: "Dies wird uns verpflichten, die Osmanen anzugreifen."
+ eqfm_crisis_decline_tt: "Dies wird uns von allen Aktionen gegen die Osmanen ausschließen."
+ eqfm_crisis_defend_tt: "Dies wird uns verpflichten, die Osmanen zu verteidigen."
+
+ je_eqfm_congress_of_berlin_main: "Der Berliner Kongress"
+ je_eqfm_congress_of_berlin_main_reason: "Die Idee, einen Internationalen Kongress einzuberufen, ist nicht ohne Präzedenzfall, aber viele sind zurückhaltend, jegliche Einschränkung der souveränen Autorität zu sehen. Doch angesichts der drohenden Gefahr eines größeren Konflikts um den Kadaver des #yellow Osmanischen Reiches#! haben die Großmächte zugestimmt, einen Frieden zwischen allen beteiligten Parteien auszuhandeln, der nicht die Zerstückelung des türkischen Reiches beinhaltet."
+ je_eqfm_congress_of_berlin_main_goal: "DUMMY"
+ je_eqfm_congress_of_berlin_sub: "Der Berliner Kongress"
+ je_eqfm_congress_of_berlin_sub_reason: ""
+ je_eqfm_congress_of_berlin_status1: "Unsere Delegierten sind unterwegs..."
+ je_eqfm_congress_of_berlin_status2: "Verhandlungen sind im Gange..."
+ je_eqfm_congress_of_berlin_status3: "Vertrag wird unterzeichnet..."
+ je_eqfm_congress_of_berlin_tt: "Der Berliner Kongress wurde abgeschlossen."
+
+ # Balkankriege Inhalt
+ je_eqfm_the_balkan_league: "Der Balkanbund"
+ je_eqfm_the_balkan_league_reason: ""
+ je_eqfm_thunderdome_main: ""
+ je_eqfm_thunderdome_main_reason: ""
+ je_eqfm_thunderdome_sub: ""
+ je_eqfm_thunderdome_sub_reason: ""
+
+  # Entscheidungen
+ eqfm_fallback_decision: "Orientalische Frage Modifikatoren entfernen"
+ eqfm_fallback_decision_desc: "Dies wird alle übrigen Modifikatoren entfernen, falls sie nach der Orientalischen Frage nicht gelöscht wurden."
+
+ # Tooltips
+ eqfm_tension_tt: "#yellow Separatistische Spannung#! auf dem Balkan ist ein Maß für den Widerstand gegen die osmanische Herrschaft. Sollte die Spannung zu hoch steigen, könnte die #bold Pforte#! Massenaufständen auf dem Balkan gegenüberstehen."
+ eqfm_tension_regress: "Aktuelle Spannungsminderung ist zurückzuführen auf:\n#variable [GetGlobalVariable('eqfm_greek_loyalists_var').GetValue|-=]#! von [GetCulture('greek').GetName] Loyalisten auf dem Balkan.\n#variable [GetGlobalVariable('eqfm_serb_loyalists_var').GetValue|-=]#! von [GetCulture('serb').GetName] Loyalisten auf dem Balkan.\n#variable [GetGlobalVariable('eqfm_bulgarian_loyalists_var').GetValue|-=]#! von [GetCulture('bulgarian').GetName] Loyalisten auf dem Balkan.\n#variable [GetGlobalVariable('eqfm_bosniak_loyalists_var').GetValue|-=]#! von [GetCulture('bosniak').GetName] Loyalisten auf dem Balkan.\n#variable [GetGlobalVariable('eqfm_croat_loyalists_var').GetValue|-=]#! von [GetCulture('croat').GetName] Loyalisten auf dem Balkan.\n#variable [GetGlobalVariable('eqfm_decelerate_var').GetValue|-=]#! von ausländischer Einmischung auf dem Balkan."
+ eqfm_tension_progress: "Aktuelle Spannungsbeschleunigung ist zurückzuführen auf:\n#variable [GetGlobalVariable('eqfm_greek_radicals_var').GetValue|-=]#! von [GetCulture('greek').GetName] Radikalen auf dem Balkan.\n#variable [GetGlobalVariable('eqfm_serb_radicals_var').GetValue|-=]#! von [GetCulture('serb').GetName] Radikalen auf dem Balkan.\n#variable [GetGlobalVariable('eqfm_bulgarian_radicals_var').GetValue|-=]#! von [GetCulture('bulgarian').GetName] Radikalen auf dem Balkan.\n#variable [GetGlobalVariable('eqfm_bosniak_radicals_var').GetValue|-=]#! von [GetCulture('bosniak').GetName] Radikalen auf dem Balkan.\n#variable [GetGlobalVariable('eqfm_croat_radicals_var').GetValue|-=]#! von [GetCulture('croat').GetName] Radikalen auf dem Balkan.\n#variable [GetGlobalVariable('eqfm_culture_var').GetValue|-=]#! von osmanischer #yellow Staatsbürgerschafts#! Politik.\n#variable [GetGlobalVariable('eqfm_religion_var').GetValue|-=]#! von osmanischer #yellow Religions#! Politik.\n#variable [GetGlobalVariable('eqfm_nationalism_var').GetValue|-=]#! von nationalistischen Bewegungen auf dem Balkan.\n#variable [GetGlobalVariable('eqfm_accelerate_var').GetValue|-=]#! von ausländischer Einmischung auf dem Balkan."
+ eqfm_success_tt: "Die #bold Hohe Pforte#! hat die Herrschaft über den Balkan gesichert."
+ eqfm_failure_tt: "Die #bold Hohe Pforte#! hat die Kontrolle über den Balkan verloren."
+
+ eqfm_pro_turk_tt: "Dies wird uns zugunsten der osmanischen Herrschaft über den Balkan positionieren."
+ eqfm_anti_turk_tt: "Dies wird uns in Opposition zur osmanischen Herrschaft über den Balkan stellen."
+ eqfm_neutral_tt: "Dies wird uns von unseren Verpflichtungen in Bezug auf die osmanische Herrschaft auf dem Balkan befreien."
+ eqfm_accelerate_tt: "Dies wird den monatlichen #o #tooltip:[GetRawTextTooltipTag('eqfm_tension_tt')] Balkan-Spannungs#!#! Fortschritt um #bold 1#! erhöhen."
+ eqfm_decelerate_tt: "Dies wird den monatlichen #o #tooltip:[GetRawTextTooltipTag('eqfm_tension_tt')] Balkan-Spannungs#!#! Fortschritt um #bold 1#! verringern."
+
+ eqfm_add_tension_small_tt: "Dies wird die #o #tooltip:[GetRawTextTooltipTag('eqfm_tension_tt')] Balkan-Spannung#!#! um #bold 10#! erhöhen."
+ eqfm_add_tension_medium_tt: "Dies wird die #o #tooltip:[GetRawTextTooltipTag('eqfm_tension_tt')] Balkan-Spannung#!#! um #bold 25#! erhöhen."
+ eqfm_add_tension_large_tt: "Dies wird die #o #tooltip:[GetRawTextTooltipTag('eqfm_tension_tt')] Balkan-Spannung#!#! um #bold 50#! erhöhen."
+ eqfm_add_tension_very_large_tt: "Dies wird die #o #tooltip:[GetRawTextTooltipTag('eqfm_tension_tt')] Balkan-Spannung#!#! um #bold 100#! erhöhen."
+
+ eqfm_deconfliction_tt: "#o #tooltip:[GetRawTextTooltipTag('eqfm_tension_tt')] Balkan-Spannung#!#! Phase wird zu #blue #bold Deeskalation#!#! wechseln. Die Spannung wird während der #blue #bold Deeskalation#!#! rapide abnehmen."
+ eqfm_tension_minus_200: "Dies wird die #o #tooltip:[GetRawTextTooltipTag('eqfm_tension_tt')] Balkan-Spannung#!#! um #bold 200#! verringern."
+
+ eqfm_content_planned: "#blue #bold Dieser Inhalt wird im nächsten Update hinzugefügt#!#!."
+
+ # Benachrichtigungen
+ notification_notification_eqfm_overtaxed_name: "Übermäßige Besteuerung erhöht Spannungen"
+ notification_notification_eqfm_overtaxed_desc: "Übermäßige Besteuerung durch osmanische Behörden auf dem Balkan hat die #o #tooltip:[GetRawTextTooltipTag('eqfm_tension_tt')] Separatistischen Spannungen#!#! um #red #bold 25#!#! erhöht."
+ notification_notification_eqfm_tax_break_name: "Sultan gewährt Steuererleichterungen"
+ notification_notification_eqfm_tax_break_desc: "Die #bold Pforte#! ist vor Protesten gegen vorgeschlagene Besteuerungen auf dem Balkan zurückgewichen. Dies hat sein Ansehen in der Heimat geschmälert."
+ notification_notification_eqfm_plague_name: "Pestausbruch erhöht Spannungen"
+ notification_notification_eqfm_plague_desc: "Pestfälle wurden auf dem Balkan gemeldet. Kritiker beschuldigen die lokalen osmanischen Garnisonen, die Krankheit zu verbreiten, was die #o #tooltip:[GetRawTextTooltipTag('eqfm_tension_tt')] Separatistischen Spannungen#!#! um #red #bold 25#!#! erhöht."
+ notification_notification_eqfm_quarantine_name: "Die #yellow Hohe Pforte#! verhängt Quarantäne!"
+ notification_notification_eqfm_quarantine_desc: "Pestfälle wurden auf dem Balkan gemeldet. Die #bold Pforte#! hat mit Quarantäne der betroffenen Regionen reagiert."
+ notification_notification_eqfm_faketriarch_name: "Patriarchaler Tadel erhöht Spannungen!"
+ notification_notification_eqfm_faketriarch_desc: "Die #bold Hohe Pforte#! hat schlecht auf Anfragen des #yellow Ökumenischen Patriarchen#! nach verstärktem Schutz für orthodoxe Christen reagiert. Dies hat die #o #tooltip:[GetRawTextTooltipTag('eqfm_tension_tt')] Separatistischen Spannungen#!#! um #red #bold 25#!#! erhöht."
+ notification_notification_eqfm_firman_name: "Der #yellow Sultan#! gewährt religiösen Schutz"
+ notification_notification_eqfm_firman_desc: "Die #bold Hohe Pforte#! hat auf Anfragen des #yellow Ökumenischen Patriarchen#! nach verstärktem Schutz für orthodoxe Christen reagiert, indem sie Gesetze erlassen hat, die ihre Gleichstellung mit Muslimen festlegen. Dies wurde von den Muslimen im Reich schlecht aufgenommen."
+ notification_notification_eqfm_burninator_name: "Kirchenbrände erhöhen Spannungen!"
+ notification_notification_eqfm_burninator_desc: "Unruhen haben dazu geführt, dass mehrere orthodoxe Kirchen von Mobs niedergebrannt wurden. Die stillschweigende Billigung der #bold Pforte#! hat die #o #tooltip:[GetRawTextTooltipTag('eqfm_tension_tt')] Separatistischen Spannungen#!#! um #red #bold 25#!#! erhöht."
+ notification_notification_eqfm_reparations_name: "Der #yellow Sultan#! leistet Reparationen"
+ notification_notification_eqfm_reparations_desc: "Nach Kirchenbränden im ganzen Reich hat der Sultan seine persönlichen Kassen geöffnet, um den betroffenen Gemeinden Entschädigung zu leisten. Dies hat die #o #tooltip:[GetRawTextTooltipTag('eqfm_tension_tt')] Separatistische Spannung#!#! auf #red #bold 10#!#! begrenzt."
+ notification_notification_eqfm_lynching_name: "Lynchmord erhöht Spannungen!"
+ notification_notification_eqfm_lynching_desc: "Ein lokaler Sozialführer und prominenter Redner wurde von einem Mob auf dem Balkan gelyncht. Das Ausbleiben einer Reaktion der #bold Pforte#! hat die #o #tooltip:[GetRawTextTooltipTag('eqfm_tension_tt')] Separatistischen Spannungen#!#! um #red #bold 25#!#! erhöht."
+ notification_notification_eqfm_arrests_name: "Die #yellow Hohe Pforte#! setzt Ordnung durch"
+ notification_notification_eqfm_arrests_desc: "Ein lokaler Sozialführer und prominenter Redner wurde von einem Mob auf dem Balkan gelyncht. Der Sultan hat schnell reagiert und die lokalen Garnisonen entsandt, um die Täter zu verhaften."
+ notification_notification_eqfm_brigandage_name: "Räuberei erhöht Spannungen!"
+ notification_notification_eqfm_brigandage_desc: "Räuber haben mehrere Dörfer auf dem Balkan überfallen. Das Ausbleiben einer Reaktion der #bold Pforte#! hat die #o #tooltip:[GetRawTextTooltipTag('eqfm_tension_tt')] Separatistischen Spannungen#!#! um #red #bold 25#!#! erhöht."
+ notification_notification_eqfm_patrols_name: "Die #yellow Hohe Pforte#! setzt Ordnung durch"
+ notification_notification_eqfm_patrols_desc: "Räuber haben mehrere Dörfer auf dem Balkan überfallen. Der Sultan hat schnell reagiert und die lokalen Garnisonen entsandt, um die Täter zu verhaften. Dies hat die #o #tooltip:[GetRawTextTooltipTag('eqfm_tension_tt')] Separatistische Spannung#!#! auf #red #bold 10#!#! begrenzt."
+ 
+ notification_notification_eqfm_riot_suppressed_name: "Unruhen auf dem Balkan niedergeschlagen"
+ notification_notification_eqfm_riot_suppressed_desc: "Das #yellow Osmanische Reich#! hat erfolgreich einen Ausbruch ethnischer Gewalt auf dem Balkan unterdrückt. Dies hat die #o #tooltip:[GetRawTextTooltipTag('eqfm_tension_tt')] Balkan-Spannung#!#! um #bold 200#! verringert."
+
+ notification_notification_eqfm_secession_start_name: "Aufstand auf dem Balkan!"
+ notification_notification_eqfm_secession_start_desc: "Aufruhr auf dem Balkan hat dazu geführt, dass Rebellen die Waffen gegen die #bold Hohe Pforte#! erhoben haben! Dies hat die #o #tooltip:[GetRawTextTooltipTag('eqfm_tension_tt')] Balkan-Spannung#!#! um #variable 200#! reduziert."
+ notification_notification_eqfm_deconfliction_name: "#yellow Balkankampf#! tritt in #blue Deeskalation#! ein!"
+ notification_notification_eqfm_deconfliction_desc: "Jüngste Aufstände auf dem Balkan haben die Anführer dazu gebracht, Feindseligkeiten zu entschärfen. Die #o #tooltip:[GetRawTextTooltipTag('eqfm_tension_tt')] Balkan-Spannung#!#! Phase hat zu #blue #bold Deeskalation#!#! gewechselt. Die Spannung wird während der #blue #bold Deeskalation#!#! rapide abnehmen."
+
+ notification_notification_eqfm_crisis_joined_name: "Angreifer tritt Krise bei!"
+ notification_notification_eqfm_crisis_joined_desc: "[SCOPE.sCountry('eqfm_offered_scope').GetName] hat sich gegen das #yellow Osmanische Reich#! erklärt."
+ notification_notification_eqfm_crisis_defending_name: "Verteidiger unterstützt die #yellow Pforte#!!"
+ notification_notification_eqfm_crisis_defending_desc: "[SCOPE.sCountry('eqfm_offered_scope').GetName] hat seine Unterstützung für das #yellow Osmanische Reich#! erklärt."
+ notification_notification_eqfm_crisis_declined_name: "Land wendet sich ab!"
+ notification_notification_eqfm_crisis_declined_desc: "[SCOPE.sCountry('eqfm_offered_scope').GetName] hat Neutralität gegenüber der #yellow Großen Orientalischen Krise#! erklärt."
+ 
+ # Skriptgesteuerte Buttons
+ eqfm_anti_turk_button: "Türkischen Interessen entgegentreten"
+ eqfm_anti_turk_button_desc: "Der Kontrollverlust der Osmanen auf dem Balkan ist die natürliche Folge ihres Verfalls in Dekadenz. Wir sollten diese einzigartige Gelegenheit nutzen."
+ eqfm_pro_turk_button: "Türkische Interessen unterstützen" 
+ eqfm_pro_turk_button_desc: "Der Zerfall der zentralen Autorität auf dem Balkan ist eine Bedrohung für die Weltordnung. Diese unzivilisierten Emporkömmlinge müssen zur Räson gebracht werden. Lasst uns die #bold Pforte#! unterstützen."
+ eqfm_neutral_button: "Neutrale Haltung einnehmen"
+ eqfm_neutral_button_desc: "Der Balkan ist voller Täuschung und Verrat. Wir können es uns nicht länger leisten, uns direkt in die Region einzumischen."
+
+ eqfm_accelerate: "Nationalistische Spannungen schüren"
+ eqfm_accelerate_desc: "Der Balkan ist von ethnischen Spannungen zerrissen, während die einheimischen Völker des Balkans darum kämpfen, sich in Opposition zur osmanischen Herrschaft über die Region zu definieren. Zur Unterstützung unserer Opposition gegen die Osmanen könnten wir Ressourcen bereitstellen, um diese Abspaltungsbewegungen zu finanzieren."
+ eqfm_decelerate: "Nationalistische Spannungen mindern"
+ eqfm_decelerate_desc: "Die ausgebrochenen Konflikte auf dem Balkan sind eine Bedrohung sowohl für die internationale Ordnung als auch für den Wohlstand der Menschen, die die Region ihre Heimat nennen. Wenn wir den Osmanen bedeutsame Unterstützung leisten wollen, sollten wir Ressourcen bereitstellen, um diese separatistischen Gefühle zu mindern."
+ eqfm_clutch: "Diplomatische Beteiligung reduzieren"
+ eqfm_clutch_desc: "Unsere Beteiligung auf dem Balkan setzt uns nur weiteren Risiken aus. Wir sollten unsere diplomatische Präsenz reduzieren, bevor wir noch mehr in die Region verstrickt werden."
+ 
+ 
+ 
+ # country_flavor_text
+ 
+ 
+ # countries
+ 
+ 
+ # dynamic country names
+ 
+ 
+ # Modifikatoren
+ modifier_eqfm_nationalist_fervor: "Nationalistische Inbrunst"
+ modifier_eqfm_nationalist_fervor_desc: "Nationalistische Inbrunst"
+ modifier_eqfm_influencing_balkans: "Beeinflusst den Balkan"
+ modifier_eqfm_influencing_balkans_desc: "Beeinflusst den Balkan"
+ modifier_eqfm_accelerating_tensions: "Schürt Balkan-Spannungen"
+ modifier_eqfm_accelerating_tensions_desc: "Schürt Balkan-Spannungen"
+ modifier_eqfm_decelerating_tensions: "Mindert Balkan-Spannungen"
+ modifier_eqfm_decelerating_tensions_desc: "Mindert Balkan-Spannungen"
+ modifier_eqfm_overtaxed: "Übermäßig besteuert"
+ modifier_eqfm_overtaxed_desc: "Übermäßig besteuert"
+ modifier_eqfm_tax_break_given: "Steuererleichterung gewährt"
+ modifier_eqfm_tax_break_given_desc: "Steuererleichterung gewährt"
+ modifier_eqfm_plague_outbreak: "Pestausbruch"
+ modifier_eqfm_plague_outbreak_desc: "Pestausbruch"
+ modifier_eqfm_mitigated_plague: "Pest eingedämmt"
+ modifier_eqfm_mitigated_plague_desc: "Pest eingedämmt"
+ modifier_eqfm_granted_religious_firman: "Religiöser Firman gewährt"
+ modifier_eqfm_granted_religious_firman_desc: "Religiöser Firman gewährt"
+ modifier_eqfm_rebuilding_churches: "Kirchen werden wiederaufgebaut"
+ modifier_eqfm_rebuilding_churches_desc: "Kirchen werden wiederaufgebaut"
+ modifier_eqfm_churches_burned: "Orthodoxe Kirchen niedergebrannt"
+ modifier_eqfm_churches_burned_desc: "Orthodoxe Kirchen niedergebrannt"
+ modifier_eqfm_minority_leader_killed: "Minderheitenführer getötet"
+ modifier_eqfm_minority_leader_killed_desc: "Minderheitenführer getötet"
+ modifier_eqfm_protected_minorities: "Geschützte Minderheiten"
+ modifier_eqfm_protected_minorities_desc: "Geschützte Minderheiten"
+ modifier_eqfm_brigandage: "Räuberei"
+ modifier_eqfm_brigandage_desc: "Räuberei"
+ modifier_eqfm_local_garrison_deployed: "Lokale Garnison eingesetzt"
+ modifier_eqfm_local_garrison_deployed_desc: "Lokale Garnison eingesetzt"
+ modifier_eqfm_civilians_massacred: "Zivilisten massakriert"
+ modifier_eqfm_civilians_massacred_desc: "Zivilisten massakriert"
+ modifier_eqfm_impotent_authority: "Machtlose Autorität"
+ modifier_eqfm_impotent_authority_desc: "Machtlose Autorität"
+ modifier_eqfm_separatism_suppressed: "Separatismus unterdrückt"
+ modifier_eqfm_separatism_suppressed_desc: "Separatismus unterdrückt"
+ modifier_eqfm_caved_to_separatists: "Vor Separatisten eingeknickt"
+ modifier_eqfm_caved_to_separatists_desc: "Vor Separatisten eingeknickt"
+ modifier_eqfm_ethnic_riots: "Ethnische Unruhen"
+ modifier_eqfm_ethnic_riots_desc: "Ethnische Unruhen"
+ modifier_eqfm_harsh_suppression: "Harte Unterdrückung"
+ modifier_eqfm_harsh_suppression_desc: "Harte Unterdrückung"
+
+ modifier_eqfm_won_crisis: "Unabhängigkeit durchgesetzt"
+ modifier_eqfm_won_crisis_desc: "Unabhängigkeit durchgesetzt"
+ modifier_eqfm_protected_balance: "Machtgleichgewicht geschützt"
+ modifier_eqfm_protected_balance_desc: "Machtgleichgewicht geschützt"
+ modifier_eqfm_lost_crisis: "Krise verloren"
+ modifier_eqfm_lost_crisis_desc: "Krise verloren"
+ modifier_eqfm_national_awakening: "Nationales Erwachen"
+ modifier_eqfm_national_awakening_desc: "Nationales Erwachen"
+ modifier_eqfm_caucasus_secured: "Kaukasus gesichert"
+ modifier_eqfm_caucasus_secured_desc: "Kaukasus gesichert"
+ modifier_eqfm_porte_triumphant: "Ruhm der Hohen Pforte"
+ modifier_eqfm_porte_triumphant_desc: "Ruhm der Hohen Pforte"
+ modifier_eqfm_chickenshit: "Rückgratlose Führung"
+ modifier_eqfm_chickenshit_desc: "Rückgratlose Führung"
+
+ modifier_eqfm_thunderdome: "Nationalistische Wut"
+ modifier_eqfm_thunderdome_desc: "Nationalistische Wut"
+ modifier_eqfm_amir_al_muminin: "Kaiserlicher Zorn"
+ modifier_eqfm_amir_al_muminin_desc: "Kaiserlicher Zorn"
+
+ 
+ # names
+ 
+ 
+ # traits
+ 
+ 
+ # ideologies
+ 
+ 
+ # Diplomatische Aktionen
+ eqfm_great_eastern_crisis: "Die Große Orientalische Krise"
+ dp_eqfm_crisis: "Die Große Orientalische Krise"
+ dp_eqfm_crisis_desc: ""
+ 
+ # buildings
+ 
+
+ # pm groups
+ 
+ 
+ # production methods
+ 
+ 
